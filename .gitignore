@@ -26,8 +26,11 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-
+# bin 
+frontend/bin
+backend/bin
 # dependencies
+frontend/src/main/java/web-app/none
 frontend/src/main/java/web-app/node_modules
 frontend/src/main/java/web-app/.pnp
 frontend/src/main/java/web-app/.pnp.js
