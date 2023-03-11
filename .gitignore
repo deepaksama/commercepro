@@ -28,26 +28,26 @@ target/
 !**/src/test/**/target/
 
 # dependencies
-frontend/web-app/node_modules
-frontend/web-app/.pnp
-frontend/web-app/.pnp.js
+frontend/src/main/java/web-app/node_modules
+frontend/src/main/java/web-app/.pnp
+frontend/src/main/java/web-app/.pnp.js
 
 # testing
-frontend/web-app/coverage
+frontend/src/main/java/web-app/coverage
 
 # production
-frontend/web-app/build
+frontend/src/main/java/web-app/build
 
 # misc
-frontend/web-app/.DS_Store
-frontend/web-app/.env.local
-frontend/web-app/.env.development.local
-frontend/web-app/.env.test.local
-frontend/web-app/.env.production.local
+frontend/src/main/java/web-app/.DS_Store
+frontend/src/main/java/web-app/.env.local
+frontend/src/main/java/web-app/.env.development.local
+frontend/src/main/java/web-app/.env.test.local
+frontend/src/main/java/web-app/.env.production.local
 
-frontend/web-app/npm-debug.log*
-frontend/web-app/yarn-debug.log*
-frontend/web-app/yarn-error.log*
+frontend/src/main/java/web-app/npm-debug.log*
+frontend/src/main/java/web-app/yarn-debug.log*
+frontend/src/main/java/web-app/yarn-error.log*
 
 ### STS ###
 .apt_generated
