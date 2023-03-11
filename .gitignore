@@ -76,4 +76,11 @@ build/
 !**/src/test/**/build/
 
 ### VS Code ###
+
 .vscode/
+
+### Mac
+.DS_Store
+frontend/.DS_Store
+backend/.DS_Store
+
